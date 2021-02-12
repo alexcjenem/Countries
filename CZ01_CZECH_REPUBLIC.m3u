@@ -17,17 +17,27 @@ http://92.62.234.223/101/mystream.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTM plus" tvg-logo="https://i.imgur.com/tt3A546.jpg" group-title="Czech Republic",RTM plus
 http://www.rtmplus.cz/live/1-playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Východoceská TV" tvg-logo="https://i.imgur.com/GCEfVy0.jpg" group-title="Czech Republic",Východoceská TV
+#EXTINF:-1 tvg-id="" tvg-name="VÃ½chodoceskÃ¡ TV" tvg-logo="https://i.imgur.com/GCEfVy0.jpg" group-title="Czech Republic",VÃ½chodoceskÃ¡ TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ócko" tvg-logo="https://i.imgur.com/QpOUInQ.png" group-title="Czech Republic",Ócko
+#EXTINF:-1 tvg-id="" tvg-name="Ã“cko" tvg-logo="https://i.imgur.com/QpOUInQ.png" group-title="Czech Republic",Ã“cko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ócko Expres" tvg-logo="https://i.imgur.com/yHMMTrz.png" group-title="Czech Republic",Ócko Expres
+#EXTINF:-1 tvg-id="" tvg-name="Ã“cko Expres" tvg-logo="https://i.imgur.com/yHMMTrz.png" group-title="Czech Republic",Ã“cko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ócko Gold" tvg-logo="https://i.imgur.com/g1uaYwu.jpg" group-title="Czech Republic",Ócko Gold
+#EXTINF:-1 tvg-id="" tvg-name="Ã“cko Gold" tvg-logo="https://i.imgur.com/g1uaYwu.jpg" group-title="Czech Republic",Ã“cko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ócko STAR" tvg-logo="https://i.imgur.com/YgqgU3K.png" group-title="Czech Republic",Ócko STAR
+#EXTINF:-1 tvg-id="" tvg-name="Ã“cko STAR" tvg-logo="https://i.imgur.com/YgqgU3K.png" group-title="Czech Republic",Ã“cko STAR
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Šlágr" tvg-logo="https://i.imgur.com/XFSqmYS.png" group-title="Czech Republic",Šlágr
+#EXTINF:-1 tvg-id="" tvg-name="Å lÃ¡gr" tvg-logo="https://i.imgur.com/XFSqmYS.png" group-title="Czech Republic",Å lÃ¡gr
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV NOE" tvg-logo="https://i.imgur.com/Dg9edVr.jpg" group-title="Czech Republic",TV NOE
 https://w101.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist.m3u8?id=mPl75tTRpFzGS2-03
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",NOVA
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3523?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Prima Cool
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3519?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",PRIMA COMEDY CENTRAL
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/9976?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Nickelodeon HD
+http://c0.cdn.trinity-tv.net/stream/7t1JRuYcDcmXWky8CyvW79pq1qxePi72FucuiGV4VXD3mGzDf5ryEccW8HpHWXUDZFD87oz26xdwzA2ZPHCHJibmeiHnQwVHv0vycz7k58f9xspmhpnp7hh5wtz7qf6k99r5q9nfgc.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Ð˜Ð½Ñ‚ÐµÑ€
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8?checkedby:iptvcat.com
